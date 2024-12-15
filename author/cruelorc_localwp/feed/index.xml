@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cruelorc_localwp &#8211; XAMPP test WP</title>
+	<atom:link href="https://cruelorc.github.io/author/cruelorc_localwp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cruelorc.github.io</link>
+	<description></description>
+	<lastBuildDate>Sun, 15 Dec 2024 11:56:02 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>獸人的奇思妙想</title>
+		<link>https://cruelorc.github.io/2024/12/15/%e7%8d%b8%e4%ba%ba%e7%9a%84%e5%a5%87%e6%80%9d%e5%a6%99%e6%83%b3/</link>
+		
+		<dc:creator><![CDATA[cruelorc_localwp]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 11:56:00 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">https://cruelorc.github.io/?p=8</guid>
+
+					<description><![CDATA[人生總歸是一場遊戲一場夢 覺醒總比沉睡較為現實]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>個人主義的實踐</p>
+
+
+
+<ul class="wp-block-list">
+<li>二十一世紀的殘夢</li>
+
+
+
+<li>簡單回想</li>
+
+
+
+<li>目前處境</li>
+</ul>
+</blockquote>
+
+
+
+<p>人生總歸是一場遊戲一場夢 覺醒總比沉睡較為現實</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
