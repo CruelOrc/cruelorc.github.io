@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>XAMPP test WP</title>
+	<title>CruelOrc test WP</title>
 	<atom:link href="https://cruelorc.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cruelorc.github.io</link>
-	<description></description>
+	<description>個人測試用網站</description>
 	<lastBuildDate>Sun, 15 Dec 2024 11:56:02 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
